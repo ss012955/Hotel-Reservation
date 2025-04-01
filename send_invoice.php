@@ -60,11 +60,13 @@ function sendInvoiceEmail($reservation, $reservation_id) {
                 .header h1 {
                     margin: 0;
                     font-size: 28px;
+                    color: white;
                 }
                 .header h2 {
                     margin: 10px 0 0;
                     font-size: 18px;
                     font-weight: normal;
+                    color: white;
                 }
                 .content {
                     background-color: #ffffff;
